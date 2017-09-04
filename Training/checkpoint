@@ -1,0 +1,6 @@
+model_checkpoint_path: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-39000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-35000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-36000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-37000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-38000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/.ispc/SegNet-Tutorial/Models/Training/model.ckpt-39000"
